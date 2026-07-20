@@ -29,11 +29,14 @@ jobs:
       - name: Scrape real contribution data (no auth needed)
         run: python scripts/fetch_contributions.py
 
-      - name: Render animated contribution graph SVG
-        run: python scripts/generate_streak_svg.py Utkarshsoni1 contrib-heatmap.svg
+      - name: Render heatmap SVG (render_heatmap_svg.py)
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Render streak SVG (generate_streak_svg.py)
+        run: python scripts/generate_streak_svg.py Utkarshsoni1 streak.svg
 
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg streak.svg info-card.svg"
