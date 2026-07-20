@@ -1,13 +1,13 @@
 <div align="center">
 <h3><code>utkarshsoni1@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="utkarsh's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
 <h3><code>utkarshsoni1@github ~ $ whoami</code></h3>
-<img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" />
+<img src="./info-card.svg" width="490" alt="Utkarsh Soni — experience, stack, highlights" />
 
 <h3><code>utkarshsoni1@github ~ $ Tech Stack</code></h3>
 <p align="center">
