@@ -1,22 +1,22 @@
 {
   "username": "utkarshsoni1",
-  "generated_at": "2026-08-30T11:53:39Z",
+  "generated_at": "2026-08-31T13:48:20Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-08-31"
+  },
+  "total_contributions": 192,
+  "active_days": 94,
+  "avg_per_active_day": 2.0,
+  "current_streak": {
+    "length": 43,
+    "start": "2026-07-19",
     "end": "2026-08-30"
   },
-  "total_contributions": 191,
-  "active_days": 93,
-  "avg_per_active_day": 2.1,
-  "current_streak": {
-    "length": 42,
-    "start": "2026-07-19",
-    "end": "2026-08-29"
-  },
   "longest_streak": {
-    "length": 42,
+    "length": 43,
     "start": "2026-07-19",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-07-20",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 34
+      "total": 35
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
